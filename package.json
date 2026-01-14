@@ -1,0 +1,16 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel nine.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
